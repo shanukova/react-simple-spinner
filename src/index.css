@@ -1,0 +1,13 @@
+.main {
+  /* background-color: red; */
+  /* background-image: url("./images/banana.jpg"); */
+  /* background-size: cover;
+  background-position: center; */
+  /* width: 300px;
+  height: 300px; */
+}
+
+.main img {
+  width: 300px;
+  height: 250px;
+}
